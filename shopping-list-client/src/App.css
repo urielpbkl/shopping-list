@@ -1,0 +1,9 @@
+
+.shopping-list-app-principal-container{
+  width: 100vw;
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
